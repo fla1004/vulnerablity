@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.Todoist" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-13T04:03:24" hostname="DESKTOP-N4GNA79" time="31.828">
+  <properties/>
+  <testcase name="login()" classname="testCases.Todoist" time="31.828"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 13, 2021 12:03:24 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 45969
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago. 13, 2021 12:03:26 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[DelegatingClassLoader@5c97cdb7] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+[DelegatingClassLoader@5c97cdb7] error at io\qameta\allure\aspects\AttachmentsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+]]></system-err>
+</testsuite>
